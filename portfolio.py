@@ -5,7 +5,9 @@ st.title("👋 Hi, I'm Pokhrel")
 st.write("Welcome to my portfolio app!")
 
 
-st.image("https://avatars.githubusercontent.com/u/157266038?v=4", caption="Pokhrel's Avatar", use_column_width=True)
+st.image("https://avatars.githubusercontent.com/u/157266038?v=4", caption="Pokhrel's Avatar", width=200)
+
+set fixed width for the image
 
 st.header("About Me")
 st.write("""
