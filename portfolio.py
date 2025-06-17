@@ -7,8 +7,6 @@ st.write("Welcome to my portfolio app!")
 
 st.image("https://avatars.githubusercontent.com/u/157266038?v=4", caption="Pokhrel's Avatar", width=200)
 
-set fixed width for the image
-
 st.header("About Me")
 st.write("""
 I am currently pursuing my Computer Engineering degree at Himalaya College of Engineering, Lalitpur, Nepal.
