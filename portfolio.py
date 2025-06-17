@@ -24,7 +24,7 @@ st.write("- 🔹 Project 3: Description of project 3")
 
 st.header("Contact")
 st.write("📧 pokhrelyadav412.com")
-st.write("[💼 LinkedIn](https://www.linkedin.com/in/your-profile)")
+st.write("[💼 LinkedIn](https://www.linkedin.com/in/pokhrel0)")
 st.write("[💻 GitHub](https://github.com/pokhrelyadav)")
 
 
