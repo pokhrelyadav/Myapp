@@ -4,6 +4,9 @@ import streamlit as st
 st.title("👋 Hi, I'm Pokhrel")
 st.write("Welcome to my portfolio app!")
 
+
+st.image("https://avatars.githubusercontent.com/u/157266038?v=4", caption="Pokhrel's Avatar", use_column_width=True)
+
 st.header("About Me")
 st.write("""
 I am currently pursuing my Computer Engineering degree at Himalaya College of Engineering, Lalitpur, Nepal.
@@ -24,6 +27,3 @@ st.write("[💻 GitHub](https://github.com/pokhrelyadav)")
 
 
 
-
-st.header("My Image")
-st.image("https://avatars.githubusercontent.com/u/123456789?v=4", caption="Pokhrel's Avatar", use_column_width=True)
